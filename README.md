@@ -1,5 +1,7 @@
 <a name="topo"></a>
 
+- [English version](README_en.md)
+
 👋 Hello, world! Eu sou a Diana!
 
 👩‍💻 **Profissão:** Engenheira de Software em formação.
@@ -34,3 +36,6 @@ Espero que tenha gostado de me conhecer um pouco mais! Sinta-se à vontade para 
 🔗 [Voltar ao topo](#topo) 
 
 ---
+⭐️ From @dianainocencio (com uma pequena ajuda do ChatGPT 🤖)
+
+- [English version](README_en.md)
