@@ -1,7 +1,6 @@
 
 <!-- Título animado + divisor ---------------------------------------------->
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Diana!;Engenheira+de+Dados.;Seja+bem-vindo(a)+ao+meu+perfil!+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&background=C1C1C100&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Diana!;Engenheira+de+Dados;Seja+bem-vindo(a)+ao+meu+perfil!+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <!-- Sobre mim -------------------------------------------------------------->
 <h2><strong>Minha história com a tecnologia</h2></strong>
