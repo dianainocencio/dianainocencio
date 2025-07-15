@@ -1,30 +1,7 @@
 
 <!-- Título animado + divisor ---------------------------------------------->
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Diana!;Engenheira+de+Dados.;Seja+bem-vindo(a)+ao+meu+perfil!+%E2%9C%A8" alt="Typing SVG" />
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Diana!;Engenheira+de+Dados.;Seja+bem-vindo(a)+ao+meu+perfil!+%E2%9C%A8" alt="Typing SVG" />
 </a>
-</h1>
-
-
-
-<!-- Contato ---------------------------------------------------------------->
-<p align="center">
-  <strong><span style="color:#9B59B6;">
-    Eaí, eu sou a Diana! Vamos nos conectar? Envie‑me um e‑mail, adicione‑me no LinkedIn ou continue explorando meu perfil no GitHub. 💜
-  </span></strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dianainocencio/" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" style="margin:0 8px"/>
-  </a>
-  <a href="https://github.com/dianainocencio" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github"   alt="GitHub"   height="48" style="margin:0 8px"/>
-  </a>
-  <a href="mailto:inocenciodianaleticia@gmail.com" target="_self" title="E‑mail">
-    <img src="https://skillicons.dev/icons?i=gmail"    alt="Gmail"    height="48" style="margin:0 8px"/>
-  </a>
-</p>
 
 <!-- Sobre mim -------------------------------------------------------------->
 <h2><strong>Minha história com a tecnologia</h2></strong>
