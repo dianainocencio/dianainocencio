@@ -32,7 +32,6 @@
 <hr>
 
 <!-- Estatísticas -------------------------------------------------------------->
-<!-- Estatísticas -------------------------------------------------------------->
 <p>
   <a href="https://github.com/dianainocencio">
     <img
@@ -52,4 +51,36 @@
     />
   </a>
 </p>
+
+
+<!-- Stack principal -------------------------------------------------------->
+<h2 align="left"><strong>Linguagens e Ferramentas</strong></h2>
+
+<p align="justify">
+Tenho mergulhado cada vez mais em <strong>SQL</strong> e <strong>Python</strong>, pilares do meu caminho em Engenharia de Dados. No dia a dia, uso Python para orquestrar ETLs, automatizar tarefas e construir scripts de qualidade de dados, enquanto aprofundo meu domínio de SQL — de modelagem relacional à consultas.<br/><br/>
+Também exploro o ecossistema de dados: <strong>Apache Airflow</strong> para agendar pipelines, <strong>dbt</strong> para transformar dados como código, além de <strong>BigQuery</strong> e <strong>Azure Synapse</strong> para escalar soluções na nuvem. Cada conceito vira laboratório: crio data warehouses de teste, injeto dados públicos, versiono transformações e exponho dashboards que contam histórias com métricas reais.<br/><br/>
+Acredito que conhecimento só ganha força quando gera valor prático, por isso transformo teoria em projetos — acadêmicos ou pessoais — sempre que posso.
+</p>
+
+<!-- Ícones agrupados ------------------------------------------------------->
+<p align="center">
+  <a href="https://skillicons.dev" title="Stack">
+    <img
+      src="https://skillicons.dev/icons?i=python,java,js,bash,powershell,azure,gcp,git,github,mysql,pycharm,vscode&perline=12"
+      alt="Ícones de stack: Python, Java, JavaScript, Bash, PowerShell, Azure, GCP, Git, GitHub, MySQL, PyCharm, VSCode"
+    />
+  </a>
+</p>
+
+<hr>
+
+<!-- visitantes e gráficos ------------------------------------------------------->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dianainocencio.dianainocencio&left_color=mediumpurple&right_color=rebeccapurple"  />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dianainocencio&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
