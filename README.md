@@ -84,10 +84,11 @@ Acredito que conhecimento só ganha força quando gera valor prático, por isso 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dianainocencio&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-<!-- Footer --------------------------------------------------------------->
+<!-- Footer ---------------------------------------------------------------->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&animation=blinking&section=footer&fontColor=C8A6DC"
-    alt="Footer wave"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B59B6&section=footer"
+    alt="Wave footer"
+    width="100%"
   />
 </p>
